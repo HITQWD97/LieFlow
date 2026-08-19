@@ -2,10 +2,6 @@
 
 ### Synthetic Dataset
 
-#### Umbrella
-
-![Balloon1 comparison](assets/umbrella_comparison.gif)
-
 #### Bat
 
 ![Balloon1 comparison](assets/bat_comparison.gif)
@@ -21,6 +17,10 @@
 #### Shark
 
 ![Balloon1 comparison](assets/shark_comparison.gif)
+
+#### Whale
+
+![Balloon1 comparison](assets/whale_comparison.gif)
 
 ####Telescope
 
