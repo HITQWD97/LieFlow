@@ -1,5 +1,31 @@
 ## Qualitative Video Results
 
+### Synthetic Dataset
+
+#### Umbrella
+
+![Balloon1 comparison](assets/umbrella_comparison.gif)
+
+#### Bat
+
+![Balloon1 comparison](assets/bat_comparison.gif)
+
+#### Fallingball
+
+![Balloon1 comparison](assets/fallingball_comparison.gif)
+
+#### Fan
+
+![Balloon1 comparison](assets/fan_comparison.gif)
+
+#### Shark
+
+![Balloon1 comparison](assets/shark_comparison.gif)
+
+####Telescope
+
+![Balloon1 comparison](assets/telescope_comparison.gif)
+
 ### NVIDIA
 
 #### Balloon1
@@ -17,3 +43,5 @@
 #### Umbrella
 
 ![Balloon1 comparison](assets/umbrella_comparison.gif)
+
+
